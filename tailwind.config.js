@@ -6,6 +6,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    'orange': '#fe9307',
     extend: {},
   },
   plugins: [require("daisyui")],
